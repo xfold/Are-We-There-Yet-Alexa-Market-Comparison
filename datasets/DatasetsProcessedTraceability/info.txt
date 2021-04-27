@@ -1,0 +1,25 @@
+These datasets contain information about all skills from all markets from the years:
+2019
+2020
+2021
+
+The columns include:
+'id_aux', 
+'id' : id as per amazon skill id. Some skills do not have it and we have not mapped skills between years
+'name': skill name
+'dev': developer name
+'cat': category name
+'market': 2-char id for market, e.g. 'UK', 'US', 'ES'
+'subcat': subcategory name
+'acc_linking': account linking info
+'in_skill_purchase': in skill purchase information
+'cost': wehtehr the skill is free to use or not 
+'review_stars': number of stars in str format
+'skill_link': whether the skill allows skill_link or not
+'year': int sttaing the year
+'perm_requested_original': permissions requested as crawled from website
+'perm_requested_norm': permissions requested normalised
+'perm_found_norm': permissions found in the policy (if any) and normalised
+'policy_url': policy url, if any
+'policy_text': text of the policy, if any
+'traceability': Type of traceability; 'C' complete, 'P' partial, 'B' broken
