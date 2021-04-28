@@ -1,0 +1,11 @@
+The process to creating the datastes is as follow:
+
+#first from JoinMarkets.ipynb
+1) first we load the json files for each year
+2) we map the traceability information from the traceability .csv files to each of the elements
+3) save the files in datasets/DatasetsProcessedTraceability
+
+#then we map the ids between the same skills at AssignIds.ipynb
+1) load all files from datasets/DatasetsProcessedTraceability
+2) assign ids based on a combination of skillname__dev
+3) save results on datasets/DatasetsProcessedTraceability/*_ids.csv

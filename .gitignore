@@ -2,5 +2,11 @@ datasets/.ipynb_checkpoints
 datasets/Dataset_Apri2021
 datasets/Dataset_July2020
 datasets/Dataset_Mayy2019
+datasets/DatasetsProcessedTraceability/2019.csv
+datasets/DatasetsProcessedTraceability/2020.csv
+datasets/DatasetsProcessedTraceability/2021.csv
+datasets/DatasetsProcessedTraceability/2019_ids.csv
+datasets/DatasetsProcessedTraceability/2020_ids.csv
+datasets/DatasetsProcessedTraceability/2021_ids.csv
 datasets/*.ipynb
 .ipynb_checkpoints
