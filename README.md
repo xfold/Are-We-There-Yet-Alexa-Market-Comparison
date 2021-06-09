@@ -33,6 +33,5 @@ Files used to organise and corectly map tracebaility data for Alexa skills betwe
 </ul>
 
 # Combined Report
-CombineReport is the combination of all reported skills with bad traceability
-These are skills reported to Amazon and developers, and how their traceability changed during the last years.
+CombineReport is the combination of all reported skills with bad traceability. These are skills reported to Amazon and developers previously. Their traceability changes can be obtained when comparing the current traceabilities with these found when they were reported.
 
