@@ -32,4 +32,7 @@ Files used to organise and corectly map tracebaility data for Alexa skills betwe
   <li>policy_text: str - Policy text, raw.</li> 
 </ul>
 
+# Combined Report
+CombineReport is the combination of all reported skills with bad traceability
+These are skills reported to Amazon and developers, and how their traceability changed during the last years.
 
