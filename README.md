@@ -1,4 +1,4 @@
-# Jide-AlexaCompareMarkets
+# Are We There Yet? Alexa Market Comparison
 Files used to organise and corectly map tracebaility data for Alexa skills between csv and json files during three different years 2019, 2020, 2021. This repo also contains example executions that show how to compare the datasets over the years.
 
 # Outline
